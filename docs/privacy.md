@@ -4,7 +4,7 @@
 that bus is now. It has no accounts, no advertising and no analytics or tracking. This page says what leaves your phone,
 and why. It says the same as the Privacy screen in the app (Settings → Privacy).
 
-*Last updated: November 22, 2026.*
+*Last updated: November 26, 2026.*
 
 ## Your location
 
@@ -31,8 +31,9 @@ keep the service running. We do not sell them, share them or combine them with a
 
 ## On your phone
 
-Your saved stops and buses, the agencies you turned off and your other settings stay on this phone. The Home Screen
-widget reads them there, with your location if you allow it.
+Your saved stops and buses, your recent searches — the stops, routes and places you opened from the search — the
+agencies you turned off and your other settings stay on this phone. The Home Screen widget reads them there, with your
+location if you allow it.
 
 ## If you write to us
 
